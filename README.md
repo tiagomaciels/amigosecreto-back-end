@@ -1,4 +1,4 @@
-# Projeto do início dos meus estudos em desenvolvimento web [2022]
+#  [2022] Projeto do início dos meus estudos em desenvolvimento web
 ## Back-end de sorteio de amigo secreto com envio de e-mail e CRUD completo, utilizando NodeJS, Express, Sequelize e MySQL.
 
 CRUD Completo - Amigo Secreto com Sorteio e Envio de E-mail
